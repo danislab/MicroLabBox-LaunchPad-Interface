@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 09661526613
+D Harting 2.74mm Pitch 9 Way Right Angle Through Hole Mount PCB D-sub Connector, Socket
+F https://componentsearchengine.com/Datasheets/1/09661526613.pdf
+$ENDCMP
+#
+$CMP 09661626812
+D HARTING D-Sub Standard Series, 9 Way Right Angle Through Hole PCB D-sub Connector Plug, 2.74mm Pitch, with 4-40 UNC
+F https://componentsearchengine.com/Datasheets/1/09661626812.pdf
+$ENDCMP
+#
+$CMP 09665627812
+D D-Sub Standard Connectors DSUB SV ML SSDP ANG87-254 50P AU3
+F https://componentsearchengine.com/Datasheets/1/09665627812.pdf
+$ENDCMP
+#
+$CMP 61300211121
+D WURTH ELEKTRONIK - 61300211121 - HEADER, 2.54MM, PIN, THT, VERTICAL, 2WAY
+F https://componentsearchengine.com/Datasheets/2/61300211121.pdf
+$ENDCMP
+#
+$CMP 61302021121
+D Wurth Elektronik WR-PHD, 2.54mm Pitch, 20 Way, 2 Row, Straight Pin Header, Through Hole
+F https://componentsearchengine.com/Datasheets/1/61302021121.pdf
+$ENDCMP
+#
+$CMP GRM155R61A104KA01D
+D MURATA - GRM155R61A104KA01D - CAP, MLCC, X5R, 100NF, 10V, 0402
+F https://componentsearchengine.com/Datasheets/1/GRM155R61A104KA01D.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710KL
+D YAGEO (PHYCOMP) - RC0402FR-0710KL. - RES, THICK FILM, 10K, 1%, 0.0625W, 0402
+F https://componentsearchengine.com/Datasheets/1/RC0402FR-0710KL.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07120RL
+D YAGEO (PHYCOMP) - RC0603FR-07120RL - RES, THICK FILM, 120R, 1%, 0.1W, 0603
+F https://componentsearchengine.com/Datasheets/1/RC0603FR-07120RL.pdf
+$ENDCMP
+#
+$CMP SN65HVD234DR
+D 3.3 V CAN Transceiver with Sleep Mode
+F http://www.ti.com/lit/gpn/sn65hvd234
+$ENDCMP
+#
+#End Doc Library

@@ -1,9 +1,9 @@
-# MicroLabBox LaunchPad Interface
+# dSPACE MicroLabBox TI LaunchPad Interface PCB
 
 The MicroLabBox LaunchPad Interface is a simple PCB to connect LaunchPads from Texas Instruments (TI) to the MicroLabBox from dSPACE to perform real-time Hardware-in-the-Loop (HIL) tests. This Interface PCB can be used to accelerate the development and validation of software and algorithms running on MCUs from TI.
 Depending on the LaunchPad the interface PCB offers up to 28 digital IOs, 16 analog inputs (LaunchPad side), 4 analog outputs (LaunchPad side) and two independent CAN interfaces.
 
-![Picture of dSPACE MicroLabBox TI LaunchPad Interface PCB](MicroLabBox_TI_LaunchPad_Interface_PCB.jpg "dSPACE MicroLabBox TI LaunchPad Interface PCB")
+![Picture of dSPACE MicroLabBox TI LaunchPad Interface PCB](dSPACE_MicroLabBox_TI_LaunchPad_Interface_PCB.jpg "dSPACE MicroLabBox TI LaunchPad Interface PCB")
 
 ## Status
 * The Interface PCB was tested with LaunchPads for the TI MCUs F28377S, 570LS12x and 570LC43x.
